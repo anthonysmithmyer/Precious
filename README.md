@@ -6,4 +6,4 @@ The objective of this report was to analyze a disk image of a hard drive belongi
 
 ## Report
 
-A copy of the report is available below.
+A copy of the report is available <a href="https://github.com/anthonysmithmyer/Precious/blob/main/Precious%20Report.pdf">here</a> and in the files tab.
